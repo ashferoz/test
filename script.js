@@ -1,5 +1,5 @@
 let globalVariable = 10;
-let globalVariableTwo = 15;
+let globalVariableTwo = 5;
 
 var main = function (input) {
   var myOutputValue = "hello world";
